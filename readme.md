@@ -2,7 +2,7 @@
 --------------------------
 Hola! soy Belen Pastorini
 
-![fotocv]("C:\Users\Belen\Downloads\WhatsApp Image 2026-03-30 at 18.02.08 (1).jpeg")
+![WhatsApp Image 2026-03-30 at 18 02 08 (1)](https://github.com/user-attachments/assets/f12104a5-7979-4591-ae8c-8c77ed281334)
 
 --------------------------
 ## Sobre mí
@@ -18,11 +18,11 @@ Hola! soy Belen Pastorini
 - Soy #Team Invierno 
 - Me gusta mucho escuchar musica mientras hago cosas o ver algun video, un gusto musical especifico no tengo, puedo escuhar desde Miley cyrus a Calamaro y terminar en Sinatra
 
-![natacion]("C:\Users\Belen\Downloads\WhatsApp Image 2026-04-07 at 16.17.46.jpeg")
+![WhatsApp Image 2026-04-07 at 16 17 46](https://github.com/user-attachments/assets/051b8832-00b4-4645-b4b1-538832f7e512)
 
 --------------------------
 ## Mi mayor compañia de todos los dias
 
 El es **Tango** tiene 2 años, es lo que mas adoro en este mundo 
 
-![tango]("C:\Users\Belen\Downloads\WhatsApp Image 2026-04-07 at 16.16.12.jpeg")
+![WhatsApp Image 2026-04-07 at 16 16 12](https://github.com/user-attachments/assets/7cffca5b-fc9a-4540-8d09-89f330484eee)
